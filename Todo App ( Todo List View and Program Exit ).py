@@ -15,6 +15,8 @@ while True:
 
         case 'exit':
             break
+        case whatever:
+            print("Please read the instructions carefully \n")
 print("Be sure to check in on your TODO list once a while")
 
 
