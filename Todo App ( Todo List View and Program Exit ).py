@@ -11,6 +11,7 @@ while True:
 
         case 'show':
             for item in todos:
+                item = item.title()
                 print(item)
 
         case 'exit':
